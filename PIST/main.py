@@ -224,7 +224,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     start_time = time.time()
 
-    main(args,nfold=1)
+    main(args,nfold=10)
             
     end_time = time.time()    
     print("during {:.2f}s".format(end_time - start_time))
