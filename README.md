@@ -3,7 +3,6 @@
 This is an implementation of the paper
 Teng Huang, Bin-Bin Jia, Min-Ling Zhang. Deep Multi-Dimensional Classification with Pairwise Dimension-Specific Features. In: Proceedings of the 33th International Joint Conference on Artificial Intelligence (IJCAI'24), Jeju.
 
-Github link: https://github.com/tengingit/PIST
 ***
 
 ## Requirements
